@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58.809" height="58.81" viewBox="0 0 58.809 58.81">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="58.81" height="58.81" fill="#d9d9d9"/>
+    </clipPath>
+  </defs>
+  <g id="Fav_Star" data-name="Fav Star" transform="translate(-0.001 0)" clip-path="url(#clip-path)">
+    <path id="star" d="M29.405.954l9.086,18.411L58.81,22.319l-14.7,14.33,3.471,20.237L29.405,47.332,11.232,56.886,14.7,36.649,0,22.319l20.319-2.953Z" transform="translate(0 0.485)" fill="#d9d9d9"/>
+  </g>
+</svg>

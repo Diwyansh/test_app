@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210.714" height="210.714" viewBox="0 0 210.714 210.714">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="210.714" height="210.714" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icon" transform="translate(0.001 0)" opacity="0.8" clip-path="url(#clip-path)">
+    <g id="youtube" transform="translate(0 32.924)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_11" data-name="Path 11" d="M201.759,37.4C196.043,27.23,189.84,25.36,177.211,24.649c-12.617-.856-44.342-1.212-71.827-1.212-27.538,0-59.277.356-71.88,1.2C20.9,25.36,14.684,27.217,8.916,37.4,3.029,47.551,0,65.04,0,95.831v.105c0,30.659,3.029,48.28,8.916,58.328,5.768,10.167,11.971,12.011,24.575,12.867,12.617.738,44.355,1.172,71.893,1.172,27.485,0,59.211-.435,71.84-1.159,12.63-.856,18.833-2.7,24.548-12.867,5.94-10.048,8.942-27.669,8.942-58.328v-.105C210.714,65.04,207.712,47.551,201.759,37.4ZM79.018,135.379V56.362l65.848,39.509Z" transform="translate(0 -23.438)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="120" height="120" transform="translate(130 564)" fill="#7c7c7c"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_20" data-name="Mask Group 20" transform="translate(-130 -564)" clip-path="url(#clip-path)">
+    <g id="eco-power-cells" transform="translate(130 564)">
+      <g id="Group_19" data-name="Group 19">
+        <path id="Path_25" data-name="Path 25" d="M103.695,59.5l15.715-27.23L101.712,1.6h-35.4L50.292,29.341H17.69L0,60,17.7,90.66H50.889L66.9,118.4h35.4L120,87.741ZM69.681,7.452H98.334l14.326,24.81L98.334,57.07H69.681L55.359,32.262ZM49.73,84.809H21.078L6.755,60,21.078,35.189H49.731L64.052,60Zm49.192,27.735H70.269l-14.321-24.8L70.269,62.925H98.922l14.321,24.816Z"/>
+        <path id="Path_26" data-name="Path 26" d="M23.6,39.391,11.812,59.956,22.971,81.128l3.885-2.049L16.812,60.04,27.4,41.568Z"/>
+        <path id="Path_27" data-name="Path 27" d="M104.713,33.159l3.687-2.368L95.079,10.046H72.194v4.383H92.682Z"/>
+        <path id="Path_28" data-name="Path 28" d="M97.76,67.006,93.9,69.074l10.136,18.906-10.1,17.211,3.777,2.226,11.35-19.343Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

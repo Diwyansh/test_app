@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Icon" width="75" height="75" transform="translate(180 65)" fill="#0011ea"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_8" data-name="Mask Group 8" transform="translate(-180 -65)" clip-path="url(#clip-path)">
+    <g id="web-page-home" transform="translate(180 69.059)">
+      <g id="Group_2" data-name="Group 2" transform="translate(0 0)">
+        <path id="Path_14" data-name="Path 14" d="M2.591,46.323H8.7V70.758a2.626,2.626,0,0,0,2.618,2.618H29.209a2.626,2.626,0,0,0,2.618-2.618V52.868H42.736V70.758a2.626,2.626,0,0,0,2.618,2.618H62.372a2.626,2.626,0,0,0,2.618-2.618V46.323h7.418a2.607,2.607,0,0,0,1.833-4.451L40.117,7.269a2.608,2.608,0,0,0-3.665-.044L.8,41.828a2.62,2.62,0,0,0-.611,2.88A2.552,2.552,0,0,0,2.591,46.323ZM38.2,12.81,66.124,41.086H62.371A2.626,2.626,0,0,0,59.753,43.7V68.14H47.972V50.25a2.626,2.626,0,0,0-2.618-2.618H29.209A2.626,2.626,0,0,0,26.59,50.25V68.14H13.936V43.7a2.626,2.626,0,0,0-2.618-2.618H9.049Z" transform="translate(0 -6.494)" fill="#0011ea"/>
+      </g>
+    </g>
+  </g>
+</svg>
